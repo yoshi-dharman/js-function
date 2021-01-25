@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+
+nav{
+    display: flex;
+    background-color: #222222;
+    /* padding: 10px; */
+}
+
+nav a{
+    text-decoration: none;
+    color: wheat;
+    padding: 15px 30px;
+}
+nav a:hover{
+    background-color: wheat;
+    color: #222222;
+}
